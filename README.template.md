@@ -1,6 +1,6 @@
 # http-echo
 
-`http-echo` is dependency-free HTTP server that always responds with the request it receives.
+`http-echo` is a dependency-free HTTP server that always responds with the request it receives.
 
 ## Contents
 
